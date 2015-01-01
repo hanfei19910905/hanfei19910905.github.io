@@ -3,7 +3,42 @@
   <channel>
     <title>Jason Han&#39;s Blog</title>
     <link>http://sample.com</link>
-    <pubDate>17 Dec 14 1743 CST</pubDate>
+    <pubDate>01 Jan 15 1351 CST</pubDate>
+    <item>
+      <title>2014-总结</title>
+      <link>http://sample.com/2015/summary</link>
+      <pubDate>2014-12-20 12:00:00 +0800</pubDate>
+      <description>&lt;p&gt;不知不觉2014年也要过去了，回顾这一年的成长其实是相当迅速的。真的学了好多东西，接触了各种各样的技术。
+###江游实习
+1月到4月初我在上海江游公司实习，是一个很靠谱的游戏公司。因为我去的比较晚，加上一些其他原因比较分心，最后其实没有做出满意的作品。不过我对自己的成长大概还是很满意的。
+我在里面做了三个事情：
+1.  用as 3.0搞了一个单机版的游戏原型
+主要是资源的加载，寻路算法实现，镜头平缓滑动，角色的攻击，移动等。其实最难的还是高清地图的异步加载了。不过As天生的事件机制就很适合做这些事情。
+2. 用cocos2d-html5写了一个打飞机页游
+3. 用cocos2d-html5和Node.js写了一个战棋类网游
+其实完成的都比较初步了，本来是写好了一个框架，可以通过改配置文件把角色批量加进去。但发布前一天晚上，发现队友把角色图标的文件名hard code进里面了，改起来代价比较大 =.=。所以一直烂尾，没有动。&lt;/p&gt;
+
+&lt;p&gt;不过经历了这次实习以后，我对事件机制，Js语言本身，和游戏引擎的实现有了十分深刻的认识，感觉来的非常值~&lt;/p&gt;
+
+&lt;p&gt;###一个网站
+帮一个老师写了一个网站，自己用node.js实现的CMS，后来发现其实拓展性并不是太好，关键自己也没有用过CMS。不过开心的是学会了jade，和写前端的姿势。&lt;/p&gt;
+
+&lt;p&gt;###毕设
+Ruby静态类型分析&lt;/p&gt;
+
+&lt;p&gt;###两次比赛
+ACM省赛和东北赛划水，一次第二，一次第五。&lt;/p&gt;
+
+&lt;p&gt;###一个OJ
+坑。。。&lt;/p&gt;
+
+&lt;p&gt;###半年工作之流计算
+被老板骂成狗&lt;/p&gt;
+
+&lt;p&gt;###半年工作之SQL优化
+学会了写SQL的姿势。。。&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>新Blog安家</title>
       <link>http://sample.com/2014/new-born.html</link>
